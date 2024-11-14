@@ -1,7 +1,7 @@
-url: grupoparigot.api.postoaki.com
-status: down
-code: 401
-responseTime: 422
-lastUpdated: 2024-11-14T09:52:33.489Z
+url: https://grupoparigot.api.postoaki.com/health
+status: up
+code: 200
+responseTime: 655
+lastUpdated: 2024-11-14T09:56:22.371Z
 startTime: 2024-11-14T09:52:32.653Z
 generator: Upptime <https://github.com/upptime/upptime>
