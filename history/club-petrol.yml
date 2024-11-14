@@ -1,7 +1,7 @@
-url: clubpetrol.api.postoaki.com
-status: down
-code: 401
-responseTime: 418
-lastUpdated: 2024-11-14T09:52:36.366Z
+url: https://clubpetrol.api.postoaki.com/health
+status: up
+code: 200
+responseTime: 630
+lastUpdated: 2024-11-14T09:56:25.470Z
 startTime: 2024-11-14T09:52:35.584Z
 generator: Upptime <https://github.com/upptime/upptime>
