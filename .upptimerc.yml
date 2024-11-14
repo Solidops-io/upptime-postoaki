@@ -1,36 +1,33 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Solidops-io
+repo: upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  
+  - name: Posto 3 Palmeiras
+    url: posto3palmeiras.api.postoaki.com
+  
+  - name: Rede Roda
+    url: rederoda.api.postoaki.com
 
+  - name: Clube Avanth
+    url: clubeavanth.api.postoaki.com
+
+  - name: Grupo Parigot
+    url: grupoparigot.api.postoaki.com
+
+  - name: Club Petrol
+    url: clubpetrol.api.postoaki.com
+
+  - name: Premium Combustíveis
+    url: premiumcombustiveis.api.postoaki.com
+  
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  cname: upptime.solidops.io
+  logoUrl: https://solidops.io/wp-content/themes/solidops/images/logo-header.png
+  introTitle: "**Upptime Solidops** Este é um monitor de saúde de aplicações web e apis mantidos por [solidops.io](https://solidops.io)"
+  name: "Upptime"
+  css: "#sapper > main > section:nth-child(8) {visibility: hidden}"
+  
+  i18n:
+    footer: This page is a [Solidops.io](https://solidops.io) page.
+      
