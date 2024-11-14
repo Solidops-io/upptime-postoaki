@@ -1,7 +1,7 @@
-url: clubeavanth.api.postoaki.com
-status: down
-code: 401
-responseTime: 424
-lastUpdated: 2024-11-14T09:52:30.621Z
+url: https://clubeavanth.api.postoaki.com/health
+status: up
+code: 200
+responseTime: 689
+lastUpdated: 2024-11-14T09:56:19.513Z
 startTime: 2024-11-14T09:52:29.798Z
 generator: Upptime <https://github.com/upptime/upptime>
