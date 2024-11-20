@@ -3,9 +3,8 @@ repo: upptime-postoaki
 
 sites:
   
-   - name: Posto 3 Palmeiras
+  - name: Posto 3 Palmeiras
     url: https://posto3palmeiras.api.postoaki.com/health
-    appUrl: https://apps.apple.com/us/app/posto-3-palmeiras/id6737435557
   
   - name: Rede Roda
     url: https://rederoda.api.postoaki.com/health
