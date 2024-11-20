@@ -3,8 +3,9 @@ repo: upptime-postoaki
 
 sites:
   
-  - name: Posto 3 Palmeiras
+   - name: Posto 3 Palmeiras
     url: https://posto3palmeiras.api.postoaki.com/health
+    appUrl: https://apps.apple.com/us/app/posto-3-palmeiras/id6737435557
   
   - name: Rede Roda
     url: https://rederoda.api.postoaki.com/health
@@ -20,6 +21,76 @@ sites:
 
   - name: Premium Combustíveis
     url: https://premiumcombustiveis.api.postoaki.com/health
+
+  - name: Posto do Sergio
+    url: https://postodosergio.api.postoaki.com/health
+
+  - name: Novo Brasil Postos
+    url: https://novobrasilpostos.api.postoaki.com/health
+
+  - name: Posto Bom Alcool
+    url: https://postobomalcool.api.postoaki.com/health
+
+  - name: Posto Divisa
+    url: https://postodivisa.api.postoaki.com/health
+
+  - name: P5
+    url: https://p5.api.postoaki.com/health
+
+  - name: Rede América
+    url: https://redeamerica.api.postoaki.com/health
+
+  - name: Posto São João
+    url: https://postosaojoao.api.postoaki.com/health
+
+  - name: Rede de Postos FKD
+    url: https://redefkd.api.postoaki.com/health
+
+  - name: Rede 7
+    url: https://redesete.api.postoaki.com/health
+
+  - name: Posto Santa Cecília
+    url: https://postosantacecilia.api.postoaki.com/health
+
+  - name: Rede Mourão
+    url: https://redemourao.api.postoaki.com/health
+
+  - name: Rede J Amaral
+    url: https://redejamaral.api.postoaki.com/health
+
+  - name: Auto Posto Imperatriz
+    url: https://autopostoimperatriz.api.postoaki.com/health
+
+  - name: Posto Uni
+    url: https://postouni.api.postoaki.com/health
+
+  - name: Cashback Posto Karaja
+    url: https://postokaraja.api.postoaki.com/health
+
+  - name: Posto São Simão
+    url: https://postosaosimao.api.postoaki.com/health
+
+  - name: Posto Petrols
+    url: https://postopetrols.api.postoaki.com/health
+
+  - name: Posto Transoja
+    url: https://postotransoja.api.postoaki.com/health
+
+  - name: TagPlus
+    url: https://tagplus.api.postoaki.com/health
+
+  - name: Avanx + 3P
+    url: https://avanx3p.api.postoaki.com/health
+
+  - name: Clube Joia
+    url: https://clubejoia.api.postoaki.com/health
+
+  - name: São José Fidelidade
+    url: https://saojosefidelidade.api.postoaki.com/health
+
+  - name: Rede Mimim +
+    url: https://redemimim.api.postoaki.com/health
+
 
 status-website:
   cname: upptime.solidops.io
