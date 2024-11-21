@@ -166,9 +166,9 @@ sites:
     url: https://redemeta.api.postoaki.com/health
 
 status-website:
-  cname: upptime.solidops.io
+  cname: upptime.postoaki.app
   logoUrl: https://solidops.io/wp-content/themes/solidops/images/logo-header.png
-  introTitle: "**Upptime Solidops PostoAki** Este é um monitor de saúde de aplicações web e apis mantidos por [solidops.io](https://solidops.io)"
+  introTitle: "**Upptime Solidops PostoAki** Este é um monitor de saúde de aplicações PostoAki mantidos por [solidops.io](https://solidops.io)"
   name: "Upptime"
   css: "#sapper > main > section:nth-child(8) {visibility: hidden}"
   
