@@ -2,94 +2,168 @@ owner: Solidops-io
 repo: upptime-postoaki
 
 sites:
-  
   - name: Posto 3 Palmeiras
     url: https://posto3palmeiras.api.postoaki.com/health
-  
   - name: Rede Roda
     url: https://rederoda.api.postoaki.com/health
-
   - name: Clube Avanth
     url: https://clubeavanth.api.postoaki.com/health
-
   - name: Grupo Parigot
     url: https://grupoparigot.api.postoaki.com/health
-
   - name: Club Petrol
     url: https://clubpetrol.api.postoaki.com/health
-
   - name: Premium Combustíveis
     url: https://premiumcombustiveis.api.postoaki.com/health
-
   - name: Posto do Sergio
     url: https://postodosergio.api.postoaki.com/health
-
   - name: Novo Brasil Postos
     url: https://novobrasilpostos.api.postoaki.com/health
-
   - name: Posto Bom Alcool
     url: https://postobomalcool.api.postoaki.com/health
-
   - name: Posto Divisa
     url: https://postodivisa.api.postoaki.com/health
-
   - name: P5
     url: https://p5.api.postoaki.com/health
-
   - name: Rede América
     url: https://redeamerica.api.postoaki.com/health
-
   - name: Posto São João
     url: https://postosaojoao.api.postoaki.com/health
-
   - name: Rede de Postos FKD
     url: https://redefkd.api.postoaki.com/health
-
   - name: Rede 7
     url: https://redesete.api.postoaki.com/health
-
   - name: Posto Santa Cecília
     url: https://postosantacecilia.api.postoaki.com/health
-
   - name: Rede Mourão
     url: https://redemourao.api.postoaki.com/health
-
   - name: Rede J Amaral
     url: https://redejamaral.api.postoaki.com/health
-
   - name: Auto Posto Imperatriz
     url: https://autopostoimperatriz.api.postoaki.com/health
-
   - name: Posto Uni
     url: https://postouni.api.postoaki.com/health
-
   - name: Cashback Posto Karaja
     url: https://postokaraja.api.postoaki.com/health
-
   - name: Posto São Simão
     url: https://postosaosimao.api.postoaki.com/health
-
   - name: Posto Petrols
     url: https://postopetrols.api.postoaki.com/health
-
   - name: Posto Transoja
     url: https://postotransoja.api.postoaki.com/health
-
   - name: TagPlus
     url: https://tagplus.api.postoaki.com/health
-
   - name: Avanx + 3P
     url: https://avanx3p.api.postoaki.com/health
-
   - name: Clube Joia
     url: https://clubejoia.api.postoaki.com/health
-
   - name: São José Fidelidade
     url: https://saojosefidelidade.api.postoaki.com/health
-
   - name: Rede Mimim +
     url: https://redemimim.api.postoaki.com/health
-
+  - name: Posto Trevo Betim
+    url: https://postotrevobetim.api.postoaki.com/health
+  - name: Fideliza Pioneiro
+    url: https://fidelizapioneiro.api.postoaki.com/health
+  - name: Posto Capital do Forro
+    url: https://postocapitalforro.api.postoaki.com/health
+  - name: Posto Titon
+    url: https://postotiton.api.postoaki.com/health
+  - name: Cliente Azul
+    url: https://clienteazul.api.postoaki.com/health
+  - name: Posto Canoeiro
+    url: https://postocanoeiro.api.postoaki.com/health
+  - name: Postos Apolo
+    url: https://postosapolo.api.postoaki.com/health
+  - name: Rede Gaia +
+    url: https://redegaia.api.postoaki.com/health
+  - name: Clube Pegasus
+    url: https://clubepegasus.api.postoaki.com/health
+  - name: Martinzinho
+    url: https://martinzinho.api.postoaki.com/health
+  - name: Abastece Yas
+    url: https://abasteceyas.api.postoaki.com/health
+  - name: Posto Hikari
+    url: https://postohikari.api.postoaki.com/health
+  - name: Rede Itavel
+    url: https://redeitavel.api.postoaki.com/health
+  - name: Postos Santana Fidelidade
+    url: https://postossantana.api.postoaki.com/health
+  - name: Posto Pioneiro
+    url: https://postopioneiro.api.postoaki.com/health
+  - name: Petro Fuel
+    url: https://petrofuel.api.postoaki.com/health
+  - name: EcoJardim
+    url: https://ecojardim.api.postoaki.com/health
+  - name: Petrosol
+    url: https://petrosol.api.postoaki.com/health
+  - name: Posto Sertão
+    url: https://postosertao.api.postoaki.com/health
+  - name: Abastece Aki
+    url: https://abasteceaki.api.postoaki.com/health
+  - name: Rede AF
+    url: https://redeaf.api.postoaki.com/health
+  - name: Rede Antonelli
+    url: https://redeantonelli.api.postoaki.com/health
+  - name: Posto do Binha
+    url: https://postobinha.api.postoaki.com/health
+  - name: Rede Gruta
+    url: https://redegruta.api.postoaki.com/health
+  - name: Clube Magnata
+    url: https://clubemagnata.api.postoaki.com/health
+  - name: Atos Fideliza
+    url: https://atosfideliza.api.postoaki.com/health
+  - name: Rede Abreu
+    url: https://redeabreu.api.postoaki.com/health
+  - name: Cashback Mãe Rainha
+    url: https://cashbackmaerainha.api.postoaki.com/health
+  - name: Postos Catarina
+    url: https://postoscatarina.api.postoaki.com/health
+  - name: Posto Michellos
+    url: https://postomichellos.api.postoaki.com/health
+  - name: Progresso Points
+    url: https://progressopoints.api.postoaki.com/health
+  - name: RP3 Combustíveis
+    url: https://rp3combustiveis.api.postoaki.com/health
+  - name: Posto Abl
+    url: https://postoabl.api.postoaki.com/health
+  - name: Posto Bandeirante
+    url: https://postobandeirante.api.postoaki.com/health
+  - name: Rede Comendador
+    url: https://redecomendador.api.postoaki.com/health
+  - name: Tanque de Vantagens
+    url: https://tanquedevantagens.api.postoaki.com/health
+  - name: Clientes VIP
+    url: https://vip.api.postoaki.com/health
+  - name: Seven Fidelidade
+    url: https://tanquecheioseven.api.postoaki.com/health
+  - name: Posto Itália
+    url: https://postoitalia.api.postoaki.com/health
+  - name: CompletAki
+    url: https://completaki.api.postoaki.com/health
+  - name: MaxSul SLO
+    url: https://maxsulslo.api.postoaki.com/health
+  - name: CVR+
+    url: https://cvrmais.api.postoaki.com/health
+  - name: Fideliza Luz da Lua
+    url: https://fidelizaluzdalua.api.postoaki.com/health
+  - name: Postos Machadao
+    url: https://postosmachadao.api.postoaki.com/health
+  - name: Poupe Mais
+    url: https://poupemais.api.postoaki.com/health
+  - name: Nova América
+    url: https://novaamerica.api.postoaki.com/health
+  - name: Grupo PW
+    url: https://grupopw.api.postoaki.com/health
+  - name: Rede Millenium
+    url: https://redemillenium.api.postoaki.com/health
+  - name: Rede Posto 7
+    url: https://redepostosete.api.postoaki.com/health
+  - name: Posto Copa
+    url: https://postocopa.api.postoaki.com/health
+  - name: Rodo Rodoil JBA
+    url: https://postosrodoiljba.api.postoaki.com/health
+  - name: Rede Meta
+    url: https://redemeta.api.postoaki.com/health
 
 status-website:
   cname: upptime.solidops.io
