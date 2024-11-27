@@ -4,6 +4,8 @@ repo: upptime-postoaki
 sites:
   - name: Api PostoAki
     url: https://redemeta.api.postoaki.com/health
+  - name: Grafana
+    url: https://grafana.postoaki.app
 
 status-website:
   cname: upptime.postoaki.app
