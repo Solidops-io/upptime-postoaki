@@ -4,18 +4,20 @@
     "url": "https://redemeta.api.postoaki.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/redemeta.api.postoaki.com.ico",
     "slug": "api-posto-aki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 572,
-    "timeDay": 625,
-    "timeWeek": 572,
-    "timeMonth": 572,
-    "timeYear": 572,
-    "dailyMinutesDown": {}
+    "time": 557,
+    "timeDay": 582,
+    "timeWeek": 557,
+    "timeMonth": 557,
+    "timeYear": 557,
+    "dailyMinutesDown": {
+      "2024-11-27": 0
+    }
   },
   {
     "name": "Grafana",
