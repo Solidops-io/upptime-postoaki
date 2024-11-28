@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/redemeta.api.postoaki.com.ico",
     "slug": "api-posto-aki",
     "status": "up",
-    "uptime": "99.13%",
+    "uptime": "99.25%",
     "uptimeDay": "97.98%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "99.13%",
-    "time": 568,
-    "timeDay": 593,
-    "timeWeek": 568,
-    "timeMonth": 568,
-    "timeYear": 568,
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.25%",
+    "time": 588,
+    "timeDay": 610,
+    "timeWeek": 588,
+    "timeMonth": 588,
+    "timeYear": 588,
     "dailyMinutesDown": {
       "2024-11-27": 29
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1102,
-    "timeDay": 1102,
-    "timeWeek": 1102,
-    "timeMonth": 1102,
-    "timeYear": 1102,
+    "time": 1063,
+    "timeDay": 1024,
+    "timeWeek": 1063,
+    "timeMonth": 1063,
+    "timeYear": 1063,
     "dailyMinutesDown": {}
   }
 ]
