@@ -6,6 +6,19 @@ sites:
     url: https://redemeta.api.postoaki.com/health
   - name: Grafana
     url: https://grafana.postoaki.app
+  - name: Painel PostoAki
+    url: https://painel.postoaki.com.br
+  - name: Painel Frota
+    url: https://painelfrota.postoaki.com.br
+  - name: Redirect PostoAki
+    url: https://redirect.postoaki.com.br
+  - name: Painel Venda
+    url: https://painelvenda.postoaki.com.br
+  - name: Wiki PostoAki
+    url: https://wiki.postoaki.com.br
+  - name: Site PostoAki
+    url: https://www.postoaki.com.br
+
 
 status-website:
   cname: upptime.postoaki.app
